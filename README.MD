@@ -1,1 +1,1 @@
-This is source code for the paper "Refined Security Guarantees against Integral Distinguishers by Eliminating Interfering Monomials with Application to PRESENT, TWINE and LBLOCK "
+This is source code for the paper "Delving Deep into Security Guarantees against Integral Distinguishers with Applications to PRESENT, TWINE and LBLOCK"
